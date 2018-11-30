@@ -1,0 +1,15 @@
+.card {
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+.sendButtonPositioning{
+	position:relative;
+}
+
+.sendButtonPositioning a{
+
+	}
+.list-group{
+	overflow-y: scroll;
+	height:300px;
+}
